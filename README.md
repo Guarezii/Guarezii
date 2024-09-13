@@ -1,9 +1,9 @@
 ### Olá! Bem vindo ao meu GitHub!
 ##
 <div align="center">
-  <a href="https://github.com/charlespsc">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=charlespsc&show_icons=true&theme=dark"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlespsc&layout=compact&langs_count=10&theme=dark"/>
+  <a href="https://github.com/Guarezii">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Guarezii&show_icons=true&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guarezii&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
   ##
@@ -23,5 +23,5 @@
   
 <div>
 <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/charlesp-sc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/Adriano Guarezi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
